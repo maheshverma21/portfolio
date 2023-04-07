@@ -1,0 +1,1753 @@
+.about-me,
+.hello-im,
+.my-skills {
+  position: absolute;
+  top: 191px;
+  left: 879px;
+  font-weight: 600;
+  display: inline-block;
+  width: 164px;
+  height: 50px;
+}
+.about-me,
+.my-skills {
+  top: 1361px;
+  left: 861px;
+  font-size: var(--font-size-21xl);
+  width: 200px;
+  height: 58px;
+}
+.my-skills {
+  top: 2401px;
+  left: 871px;
+  width: 179px;
+}
+.designing-projects {
+  top: 5441px;
+  left: 791px;
+  width: 340px;
+}
+.contact-with-me,
+.designing-projects,
+.projects {
+  position: absolute;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  display: inline-block;
+  height: 58px;
+}
+.contact-with-me {
+  bottom: 1372px;
+  left: 798px;
+  width: 326px;
+}
+.projects {
+  top: 3691px;
+  left: 871px;
+  width: 179px;
+}
+.full-stack-web-developer,
+.get-to-know,
+.the-skills-i {
+  position: absolute;
+  top: 319px;
+  left: 775px;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 372px;
+  height: 35px;
+}
+.get-to-know,
+.the-skills-i {
+  top: 1299px;
+  left: 868px;
+  width: 186px;
+  height: 43px;
+}
+.the-skills-i {
+  top: 2349px;
+  left: 841px;
+  width: 239px;
+}
+.my-graphics-work {
+  top: 5389px;
+  left: 841px;
+  width: 239px;
+}
+.get-in-touch,
+.my-graphics-work,
+.my-recent-work {
+  position: absolute;
+  color: var(--color-dimgray);
+  display: inline-block;
+  height: 43px;
+}
+.get-in-touch {
+  bottom: 1439px;
+  left: 871px;
+  width: 180px;
+}
+.my-recent-work {
+  top: 3639px;
+  left: 841px;
+  width: 239px;
+}
+.hello-my-name {
+  margin: 0;
+}
+.hello-my-name-container {
+  position: absolute;
+  top: 1859px;
+  right: -1px;
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 924px;
+  height: 242px;
+}
+.mahesh-verma {
+  position: absolute;
+  top: 241px;
+  left: 753px;
+  font-size: var(--font-size-61xl);
+  display: inline-block;
+  font-family: var(--font-utsaah);
+  width: 416px;
+  height: 68px;
+}
+.component-4-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray);
+  box-shadow: 3px 3px 12px rgba(195, 217, 255, 0.77) inset, 3px 3px 6px #c3d9ff;
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.component-4-1 {
+  position: absolute;
+  top: 401px;
+  left: 943px;
+  width: 225px;
+  height: 80px;
+}
+.lets-talk {
+  position: absolute;
+  top: 421px;
+  left: 993px;
+  text-transform: capitalize;
+  color: var(--color-darkorange);
+  display: inline-block;
+  width: 127px;
+}
+.component-3-1 {
+  position: absolute;
+  top: 401px;
+  left: 693px;
+  width: 225px;
+  height: 80px;
+}
+.download {
+  text-transform: capitalize;
+}
+.download-cv {
+  position: absolute;
+  top: 421px;
+  left: 714px;
+  color: var(--color-darkorange);
+  display: inline-block;
+  width: 184px;
+}
+.web-1920-2-child {
+  position: absolute;
+  top: 555px;
+  left: 635px;
+  width: 650px;
+  height: 650px;
+  object-fit: cover;
+}
+.icon-awesome-github-square,
+.icon-awesome-linkedin {
+  position: absolute;
+  top: 806px;
+  left: 92px;
+  width: 40px;
+  height: 40px;
+}
+.icon-awesome-github-square {
+  top: 867px;
+}
+.icon-awesome-hackerrank {
+  position: absolute;
+  top: 928px;
+  left: 91px;
+  width: 41px;
+  height: 41px;
+}
+.component-18-1,
+.web-1920-2-item {
+  position: absolute;
+  top: 1578px;
+  left: 46.46px;
+  width: 850.54px;
+  height: 740.83px;
+}
+.component-18-1 {
+  top: 1577.87px;
+  left: 992px;
+  width: 243px;
+  height: 243px;
+}
+.experience,
+.months {
+  position: absolute;
+  display: inline-block;
+}
+.experience {
+  top: 1661px;
+  left: 1030px;
+  font-weight: 600;
+  width: 151px;
+  height: 50px;
+}
+.months {
+  top: 1703px;
+  left: 1039px;
+  color: var(--color-dimgray);
+  width: 134px;
+  height: 35px;
+}
+.icon-awesome-award,
+.path-7-icon {
+  position: absolute;
+  top: 1613px;
+  left: 1091px;
+  width: 27px;
+  height: 36px;
+}
+.path-7-icon {
+  top: 1577.87px;
+  left: 1292px;
+  width: 243px;
+  height: 243px;
+}
+.projects1,
+.projects2 {
+  position: absolute;
+  display: inline-block;
+}
+.projects1 {
+  top: 1661px;
+  left: 1345px;
+  font-weight: 600;
+  width: 120px;
+  height: 50px;
+}
+.projects2 {
+  top: 1703px;
+  left: 1326px;
+  color: var(--color-dimgray);
+  width: 159px;
+  height: 35px;
+}
+.icon-awesome-clipboard-list {
+  position: absolute;
+  top: 1613px;
+  left: 1391px;
+  width: 27px;
+  height: 36px;
+}
+.path-8-icon {
+  position: absolute;
+  top: 1578px;
+  right: 82px;
+  width: 243px;
+  height: 243px;
+}
+.clients,
+.clients1 {
+  position: absolute;
+  display: inline-block;
+}
+.clients {
+  top: 1661.13px;
+  right: 161px;
+  font-weight: 600;
+  width: 102px;
+  height: 50px;
+}
+.clients1 {
+  top: 1703.13px;
+  right: 144px;
+  color: var(--color-dimgray);
+  width: 134px;
+  height: 35px;
+}
+.icon-awesome-user-circle {
+  position: absolute;
+  top: 1621.13px;
+  right: 195.13px;
+  width: 34.88px;
+  height: 34.88px;
+}
+.component-5-1-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dimgray);
+  box-shadow: 3px 3px 6px rgba(22, 0, 211, 0.77) inset,
+    3px 3px 6px rgba(255, 23, 23, 0.84);
+  border: 1px solid var(--color-dimgray);
+  box-sizing: border-box;
+}
+.component-5-1 {
+  position: absolute;
+  top: 2182px;
+  left: 998px;
+  width: 225px;
+  height: 80px;
+}
+.contact-me {
+  position: absolute;
+  top: 2202px;
+  left: 1019px;
+  text-transform: capitalize;
+  color: var(--color-darkorange);
+  display: inline-block;
+  width: 184px;
+}
+.path-80-icon,
+.path-82-icon {
+  position: absolute;
+  top: 2542px;
+  left: 310px;
+  width: 618px;
+  height: 618px;
+}
+.path-82-icon {
+  top: 3242px;
+  height: 368px;
+}
+.path-114-icon,
+.path-115-icon,
+.path-117-icon,
+.path-118-icon {
+  position: absolute;
+  top: 3832px;
+  left: 110px;
+  width: 518px;
+  height: 718px;
+}
+.path-115-icon,
+.path-117-icon,
+.path-118-icon {
+  top: 4622px;
+}
+.path-115-icon,
+.path-118-icon {
+  top: 3832px;
+  left: 710px;
+}
+.path-118-icon {
+  top: 4622px;
+}
+.path-116-icon,
+.path-119-icon {
+  position: absolute;
+  top: 3832px;
+  right: 85px;
+  width: 518px;
+  height: 718px;
+}
+.path-119-icon {
+  top: 4622px;
+}
+.path-81-icon,
+.path-83-icon {
+  position: absolute;
+  top: 2549px;
+  left: 1010px;
+  width: 618px;
+  height: 618px;
+}
+.path-83-icon {
+  top: 3242px;
+  height: 368px;
+}
+.blog-site,
+.frontend-development,
+.graphics-designing,
+.spotify-clone {
+  position: absolute;
+  top: 2593px;
+  left: 440px;
+  font-weight: 600;
+  display: inline-block;
+  width: 342px;
+  height: 50px;
+}
+.blog-site,
+.graphics-designing,
+.spotify-clone {
+  top: 3293px;
+  left: 472px;
+  width: 278px;
+}
+.blog-site,
+.spotify-clone {
+  top: 3873px;
+  left: 260px;
+  width: 202px;
+}
+.blog-site {
+  top: 4653px;
+  left: 292px;
+  width: 137px;
+}
+.shopping-website {
+  top: 3873px;
+  left: 831px;
+  width: 259px;
+}
+.restaurant-management-system,
+.shopping-website,
+.tictactoe-game,
+.web-sql {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  height: 50px;
+}
+.web-sql {
+  top: 4653px;
+  left: 896px;
+  width: 130px;
+}
+.restaurant-management-system,
+.tictactoe-game {
+  top: 3860px;
+  right: 239px;
+  width: 226px;
+}
+.restaurant-management-system {
+  top: 4653px;
+  right: 133px;
+  width: 442px;
+}
+.backend-development {
+  top: 2593px;
+  left: 1140px;
+  font-weight: 600;
+  width: 342px;
+  height: 50px;
+}
+.backend-development,
+.html,
+.javascript,
+.tools {
+  position: absolute;
+  display: inline-block;
+}
+.tools {
+  top: 3293px;
+  left: 1268px;
+  font-weight: 600;
+  width: 86px;
+  height: 50px;
+}
+.html,
+.javascript {
+  left: 0;
+}
+.html {
+  top: 0;
+  width: 111px;
+}
+.javascript {
+  width: calc(100% - 20px);
+  top: calc(50% - 133px);
+}
+.bootstrap {
+  width: calc(100% - 20px);
+  top: calc(50% - 41px);
+}
+.bootstrap,
+.chrome-dev-tools,
+.jquery {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.jquery {
+  top: calc(50% + 52px);
+  width: 111px;
+}
+.chrome-dev-tools {
+  width: calc(100% + 1px);
+  bottom: 0;
+}
+.html-parent {
+  position: absolute;
+  top: 2664px;
+  left: 398px;
+  width: 172px;
+  height: 450px;
+}
+.python {
+  width: calc(100% - 20px);
+  top: calc(50% - 113px);
+}
+.mongodb,
+.python,
+.sql {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.sql {
+  width: calc(100% - 20px);
+  top: calc(50% - 21px);
+}
+.mongodb {
+  top: calc(50% + 72px);
+  width: 144px;
+}
+.java-parent {
+  position: absolute;
+  top: 2664px;
+  left: 1108px;
+  width: 172px;
+  height: 410px;
+}
+.postman {
+  top: calc(50% - 66.5px);
+  width: 152px;
+}
+.oracle,
+.postman,
+.thunder-client {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.thunder-client {
+  width: calc(100% + 1px);
+  top: calc(50% + 25.5px);
+}
+.oracle {
+  bottom: 0;
+  width: 144px;
+}
+.firebase-parent {
+  position: absolute;
+  top: 2664px;
+  left: 1378px;
+  width: 200px;
+  height: 317px;
+}
+.adobe-xd {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.adobe-xd-parent,
+.figma-parent {
+  position: absolute;
+  top: 3364px;
+  left: 388px;
+  width: 151px;
+  height: 143px;
+}
+.figma-parent {
+  left: 688px;
+}
+.vs-code {
+  position: absolute;
+  width: calc(100% + 1px);
+  top: calc(50% - 20px);
+  left: 0;
+  display: inline-block;
+}
+.vs-code-wrapper {
+  position: absolute;
+  top: 3364px;
+  left: 1098px;
+  width: 151px;
+  height: 40px;
+}
+.git,
+.mermaid-js {
+  position: absolute;
+  right: -1px;
+  display: inline-block;
+  width: 152px;
+}
+.git {
+  top: 0;
+}
+.mermaid-js {
+  bottom: 0;
+}
+.icon-simple-visualstudiocode {
+  position: absolute;
+  top: 4.19px;
+  left: 0;
+  width: 36px;
+  height: 35.81px;
+}
+.git-parent,
+.github-wrapper {
+  position: absolute;
+  top: 3364px;
+  left: 1050px;
+  width: 479px;
+  height: 140px;
+}
+.github-wrapper {
+  top: 3464px;
+  left: 1098px;
+  width: 151px;
+  height: 40px;
+}
+.css,
+.react-js {
+  left: calc(50% - 77px);
+  width: 111px;
+}
+.css {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.react-js {
+  top: calc(50% - 106.5px);
+}
+.google-fonts,
+.jsp,
+.react-js,
+.tailwind {
+  position: absolute;
+  display: inline-block;
+}
+.tailwind {
+  top: calc(50% - 14.5px);
+  left: calc(50% - 77px);
+  width: 111px;
+}
+.google-fonts,
+.jsp {
+  right: -1px;
+  width: 195px;
+}
+.google-fonts {
+  top: calc(50% + 78.5px);
+}
+.jsp {
+  bottom: 0;
+}
+.icon-simple-java {
+  position: absolute;
+  bottom: 1px;
+  left: 0;
+  width: 26.55px;
+  height: 36px;
+}
+.css-parent {
+  position: absolute;
+  top: 2664px;
+  left: 663px;
+  width: 234px;
+  height: 397px;
+}
+.icon-awesome-html5 {
+  position: absolute;
+  top: 2671.25px;
+  left: 353.5px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-bootstrap,
+.icon-awesome-js-square {
+  position: absolute;
+  top: 2763.25px;
+  left: 353.95px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-bootstrap {
+  top: 2851.25px;
+}
+.icon-simple-jquery {
+  position: absolute;
+  top: 2944.68px;
+  left: 354.4px;
+  width: 35.96px;
+  height: 34.63px;
+}
+.icon-awesome-chrome {
+  position: absolute;
+  top: 3034.56px;
+  left: 354.29px;
+  width: 34.87px;
+  height: 34.87px;
+}
+.icon-awesome-css3-alt,
+.icon-awesome-react {
+  position: absolute;
+  top: 2670.25px;
+  left: 663.5px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-react {
+  top: 2756.25px;
+  left: 654.4px;
+  width: 36px;
+}
+.icon-awesome-font,
+.path-101-icon {
+  position: absolute;
+  top: 2946.25px;
+  left: 663.95px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.path-101-icon {
+  top: 2854.98px;
+  left: 657.44px;
+  width: 30px;
+  height: 27px;
+}
+.icon-awesome-java,
+.icon-awesome-python {
+  position: absolute;
+  top: 2664px;
+  left: 1063.45px;
+  width: 26.54px;
+  height: 36px;
+}
+.icon-awesome-python {
+  top: 2764.25px;
+  width: 30px;
+  height: 31.5px;
+}
+.icon-simple-mysql {
+  position: absolute;
+  top: 2856.78px;
+  left: 1064.4px;
+  width: 36px;
+  height: 24.45px;
+}
+.icon-simple-mongodb {
+  position: absolute;
+  top: 2942.25px;
+  left: 1076.73px;
+  width: 16.14px;
+  height: 36px;
+}
+.icon-ionic-logo-nodejs {
+  position: absolute;
+  top: 3038.75px;
+  left: 1071.3px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-simple-firebase,
+.icon-simple-postman {
+  position: absolute;
+  top: 2664px;
+  left: 1333.41px;
+  width: 26.06px;
+  height: 36px;
+}
+.icon-simple-postman {
+  top: 2754px;
+  left: 1328.43px;
+  width: 36px;
+}
+.icon-feather-battery-charging {
+  position: absolute;
+  top: 2858px;
+  left: 1336px;
+  width: 30px;
+  height: 30px;
+}
+.icon-simple-oracle {
+  position: absolute;
+  top: 2950.62px;
+  left: 1334.4px;
+  width: 36px;
+  height: 22.76px;
+}
+.icon-simple-adobephotoshop,
+.icon-simple-adobexd {
+  position: absolute;
+  top: 3364px;
+  left: 343.4px;
+  width: 36px;
+  height: 35.1px;
+}
+.icon-simple-adobephotoshop {
+  top: 3469.45px;
+  left: 344.4px;
+}
+.icon-feather-figma {
+  position: absolute;
+  top: 3373.76px;
+  left: 643.45px;
+  width: 24px;
+  height: 28.34px;
+}
+.icon-simple-canva {
+  position: absolute;
+  top: 3466.33px;
+  left: 639.44px;
+  width: 36px;
+  height: 36px;
+}
+.icon-awesome-github {
+  position: absolute;
+  top: 3464px;
+  left: 1050px;
+  width: 34.88px;
+  height: 34px;
+}
+.icon-awesome-git-alt {
+  position: absolute;
+  top: 3373px;
+  left: 1336px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-metro-flow-tree {
+  position: absolute;
+  top: 3472.5px;
+  left: 1338.5px;
+  width: 29px;
+  height: 29px;
+}
+.image-1-icon {
+  left: 137px;
+  height: 243px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 3939px;
+  border-radius: var(--br-xl);
+  width: 446px;
+  object-fit: cover;
+}
+.image-2-icon {
+  left: 737px;
+  height: 252.7px;
+}
+.image-3-icon {
+  right: 130px;
+  height: 223.6px;
+}
+.image-4-icon {
+  top: 4740.23px;
+  left: 137px;
+  width: 446px;
+  height: 231.77px;
+}
+.image-4-icon,
+.image-5-icon,
+.image-6-icon {
+  position: absolute;
+  border-radius: var(--br-xl);
+  object-fit: cover;
+}
+.image-5-icon {
+  top: 4748px;
+  left: 737px;
+  width: 446px;
+  height: 223.84px;
+}
+.image-6-icon {
+  top: 4749.48px;
+  right: 154.78px;
+  width: 396.44px;
+  height: 223px;
+}
+.cara-is-an,
+.spotify-clone-is {
+  position: absolute;
+  top: 4208px;
+  left: 137px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  display: inline-block;
+  width: 447px;
+  height: 92px;
+}
+.cara-is-an {
+  left: 737px;
+}
+.icon-awesome-html51 {
+  position: absolute;
+  top: 4323px;
+  left: 180px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-html52,
+.icon-awesome-html53,
+.icon-awesome-html54 {
+  position: absolute;
+  top: 4323px;
+  left: 1398px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-html53,
+.icon-awesome-html54 {
+  top: 5108px;
+  left: 192px;
+}
+.icon-awesome-html54 {
+  top: 4325px;
+  left: 829.64px;
+}
+.icon-awesome-js-square1,
+.icon-awesome-js-square2 {
+  position: absolute;
+  top: 4323px;
+  left: 236px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-js-square2 {
+  left: 1454px;
+}
+.icon-awesome-js-square3,
+.icon-awesome-js-square4 {
+  position: absolute;
+  top: 5108px;
+  left: 248px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-js-square4 {
+  top: 4325px;
+  left: 871.5px;
+}
+.icon-awesome-bootstrap1,
+.icon-awesome-bootstrap2 {
+  position: absolute;
+  top: 4323px;
+  left: 297px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-bootstrap2 {
+  left: 1515px;
+}
+.icon-awesome-bootstrap3,
+.icon-awesome-bootstrap4 {
+  position: absolute;
+  top: 5108px;
+  left: 309px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-bootstrap4 {
+  top: 4325px;
+  left: 921.01px;
+}
+.icon-simple-jquery1,
+.icon-simple-jquery2 {
+  position: absolute;
+  top: 4321px;
+  width: 35.96px;
+  height: 34.63px;
+}
+.icon-simple-jquery1 {
+  left: 358px;
+}
+.icon-simple-jquery2 {
+  right: 308.04px;
+}
+.icon-simple-jquery3,
+.icon-simple-jquery4 {
+  position: absolute;
+  top: 5106px;
+  left: 370px;
+  width: 35.96px;
+  height: 34.63px;
+}
+.icon-simple-jquery4 {
+  top: 4323px;
+  left: 970.3px;
+}
+.icon-awesome-css3-alt1,
+.icon-awesome-css3-alt2 {
+  position: absolute;
+  top: 4323px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-css3-alt1 {
+  left: 490px;
+}
+.icon-awesome-css3-alt2 {
+  right: 185px;
+}
+.icon-awesome-css3-alt3,
+.icon-awesome-css3-alt4 {
+  position: absolute;
+  top: 5108px;
+  left: 502px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-css3-alt4 {
+  top: 4325px;
+  left: 1074px;
+}
+.icon-awesome-react1,
+.icon-awesome-react2 {
+  position: absolute;
+  top: 4323px;
+  width: 36px;
+  height: 31.5px;
+}
+.icon-awesome-react1 {
+  left: 424px;
+}
+.icon-awesome-react2 {
+  right: 242px;
+}
+.icon-awesome-react3,
+.icon-awesome-react4 {
+  position: absolute;
+  top: 5108px;
+  left: 436px;
+  width: 36px;
+  height: 31.5px;
+}
+.icon-awesome-react4 {
+  top: 4325px;
+  left: 1023.42px;
+}
+.component-7-1,
+.icon-simple-firebase1,
+.icon-simple-mongodb1 {
+  position: absolute;
+  top: 4322px;
+  left: 1124px;
+  width: 16.14px;
+  height: 36px;
+}
+.component-7-1,
+.icon-simple-firebase1 {
+  left: 781.64px;
+  width: 26.06px;
+}
+.component-7-1 {
+  top: 4404px;
+  left: 369px;
+  width: 200px;
+  height: 60px;
+}
+.live-demo {
+  position: absolute;
+  top: 4414px;
+  left: 373px;
+  text-transform: capitalize;
+  color: var(--color-darkorange);
+  display: inline-block;
+  width: 190px;
+}
+.component-6-1 {
+  position: absolute;
+  top: 4404px;
+  left: 153px;
+  width: 200px;
+  height: 60px;
+}
+.github1 {
+  position: absolute;
+  top: 4414px;
+  left: 188px;
+  text-transform: capitalize;
+  color: var(--color-darkorange);
+  display: inline-block;
+  width: 131px;
+}
+.icon-awesome-github1,
+.icon-material-live-tv {
+  position: absolute;
+  top: 4417px;
+  left: 300px;
+  width: 34.88px;
+  height: 34px;
+}
+.icon-material-live-tv {
+  left: 534.1px;
+  width: 33px;
+  height: 30px;
+}
+.component-11-1,
+.component-9-1 {
+  position: absolute;
+  top: 4404px;
+  width: 200px;
+  height: 60px;
+}
+.component-9-1 {
+  left: 968px;
+}
+.component-11-1 {
+  right: 145px;
+}
+.component-13-1,
+.component-15-1,
+.component-17-1 {
+  position: absolute;
+  top: 5184px;
+  width: 200px;
+  height: 60px;
+}
+.component-17-1 {
+  right: 145px;
+}
+.component-13-1,
+.component-15-1 {
+  left: 968px;
+}
+.component-13-1 {
+  left: 368px;
+}
+.live-demo1 {
+  top: 4414px;
+  left: 972px;
+}
+.live-demo1,
+.live-demo2,
+.live-demo3,
+.live-demo4,
+.live-demo5 {
+  position: absolute;
+  text-transform: capitalize;
+  color: var(--color-darkorange);
+  display: inline-block;
+  width: 190px;
+}
+.live-demo2 {
+  top: 4414px;
+  right: 151px;
+}
+.live-demo3,
+.live-demo4,
+.live-demo5 {
+  top: 5194px;
+}
+.live-demo3 {
+  right: 151px;
+}
+.live-demo4,
+.live-demo5 {
+  left: 972px;
+}
+.live-demo5 {
+  left: 372px;
+}
+.component-8-1 {
+  position: absolute;
+  top: 4404px;
+  left: 752px;
+  width: 200px;
+  height: 60px;
+}
+.component-10-1,
+.component-12-1,
+.component-14-1,
+.component-16-1 {
+  position: absolute;
+  top: 4404px;
+  left: 1359px;
+  width: 200px;
+  height: 60px;
+}
+.component-12-1,
+.component-14-1,
+.component-16-1 {
+  top: 5184px;
+}
+.component-12-1,
+.component-14-1 {
+  left: 752px;
+}
+.component-12-1 {
+  left: 152px;
+}
+.github2,
+.github3,
+.github4,
+.github5,
+.github6 {
+  position: absolute;
+  top: 4414px;
+  left: 787px;
+  text-transform: capitalize;
+  color: var(--color-darkorange);
+  display: inline-block;
+  width: 131px;
+}
+.github3,
+.github4,
+.github5,
+.github6 {
+  left: 1394px;
+}
+.github4,
+.github5,
+.github6 {
+  top: 5194px;
+}
+.github5,
+.github6 {
+  left: 787px;
+}
+.github6 {
+  left: 187px;
+}
+.icon-awesome-github2,
+.icon-awesome-github3,
+.icon-awesome-github4 {
+  position: absolute;
+  top: 4417px;
+  left: 899px;
+  width: 34.88px;
+  height: 34px;
+}
+.icon-awesome-github3,
+.icon-awesome-github4 {
+  left: 1506px;
+}
+.icon-awesome-github4 {
+  top: 5197px;
+}
+.path-126-icon {
+  position: absolute;
+  bottom: 0.3px;
+  left: 0;
+  width: 1920px;
+  height: 409.7px;
+}
+.icon-awesome-github5,
+.icon-awesome-github6 {
+  position: absolute;
+  top: 5197px;
+  left: 899px;
+  width: 34.88px;
+  height: 34px;
+}
+.icon-awesome-github6 {
+  left: 299px;
+}
+.icon-material-live-tv1 {
+  position: absolute;
+  top: 4417px;
+  left: 1133.1px;
+  width: 33px;
+  height: 30px;
+}
+.icon-material-live-tv2,
+.icon-material-live-tv3 {
+  position: absolute;
+  top: 4417px;
+  right: 146.9px;
+  width: 33px;
+  height: 30px;
+}
+.icon-material-live-tv3 {
+  top: 5197px;
+}
+.icon-material-live-tv4,
+.icon-material-live-tv5 {
+  position: absolute;
+  top: 5197px;
+  left: 1133.1px;
+  width: 33px;
+  height: 30px;
+}
+.icon-material-live-tv5 {
+  left: 533.1px;
+}
+.mahesh-verma1 {
+  position: absolute;
+  bottom: 278px;
+  left: 752px;
+  font-size: var(--font-size-61xl);
+  display: inline-block;
+  font-family: var(--font-utsaah);
+  width: 417px;
+  height: 85px;
+}
+.icon-awesome-html55 {
+  position: absolute;
+  top: 5108px;
+  left: 792px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-bootstrap5,
+.icon-awesome-js-square5 {
+  position: absolute;
+  top: 5108px;
+  left: 865px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-bootstrap5 {
+  left: 943px;
+}
+.icon-simple-jquery5 {
+  position: absolute;
+  top: 5106px;
+  left: 1020px;
+  width: 35.96px;
+  height: 34.63px;
+}
+.icon-awesome-css3-alt5 {
+  position: absolute;
+  top: 5108px;
+  left: 1102px;
+  width: 27px;
+  height: 31.5px;
+}
+.icon-awesome-java1 {
+  position: absolute;
+  top: 5104px;
+  left: 1413px;
+  width: 26.54px;
+  height: 36px;
+}
+.icon-simple-oracle1 {
+  position: absolute;
+  top: 5110px;
+  left: 1501px;
+  width: 36px;
+  height: 22.76px;
+}
+.icon-simple-firebase2 {
+  position: absolute;
+  top: 5104px;
+  right: 295.94px;
+  width: 26.06px;
+  height: 36px;
+}
+.icon-simple-mysql1 {
+  position: absolute;
+  top: 5108.78px;
+  right: 199px;
+  width: 36px;
+  height: 24.45px;
+}
+.fiesta-is-a {
+  left: 137px;
+  width: 447px;
+  height: 92px;
+}
+.fiesta-is-a,
+.it-is-online,
+.web-sql-is {
+  position: absolute;
+  top: 4988px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+  display: inline-block;
+}
+.web-sql-is {
+  left: 737px;
+  width: 447px;
+  height: 92px;
+}
+.it-is-online {
+  right: 154px;
+  width: 389px;
+  height: 112px;
+}
+.img-20220130-190732-icon {
+  left: -864px;
+  width: 735.86px;
+}
+.image-8-icon,
+.image-9-icon,
+.img-20220130-190732-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image-9-icon {
+  width: calc(100% - 281.49px);
+  right: 138.4px;
+  left: 143.09px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.image-8-icon {
+  right: -825px;
+  width: 703.92px;
+}
+.scroll-group-1 {
+  position: absolute;
+  top: 5584px;
+  left: 352.91px;
+  width: 1271.49px;
+  height: 700px;
+  overflow-x: auto;
+  mix-blend-mode: normal;
+}
+.path-120-icon,
+.path-123-icon,
+.path-124-icon {
+  position: absolute;
+  bottom: 1008.08px;
+  left: 238px;
+  width: 427.53px;
+  height: 295.92px;
+}
+.path-123-icon,
+.path-124-icon {
+  bottom: 630.08px;
+  left: 497.13px;
+}
+.path-124-icon {
+  bottom: 629.08px;
+  left: 1014px;
+  height: 296.92px;
+}
+.path-121-icon,
+.path-122-icon {
+  position: absolute;
+  bottom: 1008.08px;
+  width: 427.53px;
+  height: 295.92px;
+}
+.path-121-icon {
+  left: 755px;
+}
+.path-122-icon {
+  right: 220.47px;
+}
+.email,
+.icon-material-email {
+  position: absolute;
+  bottom: 1239.54px;
+  left: 426px;
+  width: 33px;
+  height: 27px;
+}
+.email {
+  bottom: 1170px;
+  left: 401px;
+  font-weight: 600;
+  display: inline-block;
+  width: 84px;
+  height: 50px;
+}
+.github7 {
+  bottom: 770px;
+  left: 664px;
+}
+.about,
+.github7,
+.home {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  width: 101px;
+  height: 50px;
+}
+.home {
+  bottom: 190px;
+  left: 664px;
+  font-size: var(--font-size-6xl);
+}
+.about {
+  left: 784px;
+}
+.about,
+.experience1,
+.projects3 {
+  bottom: 190px;
+  font-size: var(--font-size-6xl);
+}
+.experience1 {
+  position: absolute;
+  left: 904px;
+  font-weight: 600;
+  display: inline-block;
+  width: 155px;
+  height: 50px;
+}
+.projects3 {
+  left: 1078px;
+  width: 127px;
+}
+.conatact,
+.linkedin,
+.projects3 {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+  height: 50px;
+}
+.conatact {
+  bottom: 190px;
+  left: 1224px;
+  font-size: var(--font-size-6xl);
+  width: 155px;
+}
+.linkedin {
+  bottom: 770px;
+  left: 1165px;
+  width: 123px;
+}
+.check-github,
+.connect-me,
+.mahesh-verma-all,
+.send-message {
+  position: absolute;
+  bottom: 1100px;
+  left: 339px;
+  display: inline-block;
+  width: 209px;
+  height: 50px;
+}
+.check-github,
+.connect-me,
+.mahesh-verma-all {
+  bottom: 700px;
+  left: 609px;
+}
+.connect-me,
+.mahesh-verma-all {
+  left: 1145px;
+  width: 173px;
+}
+.mahesh-verma-all {
+  bottom: 18px;
+  left: 785px;
+  font-size: var(--font-size-xl);
+  width: 321px;
+  height: 33px;
+}
+.icon-ionic-ios-arrow-forward {
+  position: absolute;
+  bottom: 1113.23px;
+  left: 540.63px;
+  width: 13.5px;
+  height: 23.62px;
+}
+.icon-ionic-ios-arrow-forward1,
+.icon-ionic-ios-arrow-forward2 {
+  position: absolute;
+  bottom: 717.23px;
+  left: 800.63px;
+  width: 13.5px;
+  height: 23.62px;
+}
+.icon-ionic-ios-arrow-forward2 {
+  bottom: 716.23px;
+  left: 1310.63px;
+}
+.div {
+  bottom: 1170px;
+  left: 846px;
+  font-weight: 600;
+  width: 229px;
+  height: 50px;
+}
+.call-me,
+.div,
+.div1 {
+  position: absolute;
+  display: inline-block;
+}
+.div1 {
+  bottom: 1170px;
+  left: 1363px;
+  font-weight: 600;
+  width: 229px;
+  height: 50px;
+}
+.call-me {
+  height: 100%;
+  width: calc(100% + 1px);
+  top: 0;
+  left: 0;
+}
+.component-2-1,
+.send-message1 {
+  position: absolute;
+  bottom: 1100px;
+  left: 885px;
+  width: 149px;
+  height: 50px;
+}
+.send-message1 {
+  left: 1371px;
+  display: inline-block;
+  width: 194px;
+}
+.icon-ionic-ios-arrow-forward3 {
+  position: absolute;
+  bottom: 1113.23px;
+  left: 990.73px;
+  width: 13.5px;
+  height: 23.62px;
+}
+.icon-ionic-ios-arrow-forward4 {
+  position: absolute;
+  right: 338.77px;
+  bottom: 1113.23px;
+  width: 13.5px;
+  height: 23.62px;
+}
+.icon-feather-phone-call {
+  position: absolute;
+  bottom: 1235.68px;
+  left: 943px;
+  width: 34.49px;
+  height: 34.55px;
+}
+.path-125-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 100px;
+}
+.icon-feather-home {
+  position: absolute;
+  top: 35px;
+  left: 286px;
+  width: 30px;
+  height: 33px;
+}
+.about1 {
+  top: 35px;
+  left: 550px;
+  width: 111px;
+}
+.about1,
+.contact-me1,
+.projects4,
+.skills {
+  position: absolute;
+  display: inline-block;
+}
+.contact-me1 {
+  top: 33px;
+  right: 262px;
+  width: 111px;
+  height: 35px;
+}
+.projects4,
+.skills {
+  top: 29px;
+  left: 1190px;
+  width: 121px;
+  height: 42px;
+}
+.skills {
+  top: 33px;
+  left: 898px;
+  width: 56px;
+  height: 35px;
+}
+.icon-awesome-whatsapp {
+  position: absolute;
+  bottom: 1237.29px;
+  left: 1461px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-github7 {
+  position: absolute;
+  bottom: 853.04px;
+  left: 691.9px;
+  width: 34.88px;
+  height: 33px;
+}
+.icon-awesome-linkedin1 {
+  position: absolute;
+  bottom: 852.79px;
+  left: 1203px;
+  width: 31.5px;
+  height: 31.5px;
+}
+.icon-awesome-github-square1,
+.icon-awesome-linkedin2 {
+  position: absolute;
+  bottom: 80px;
+  left: 680px;
+  width: 50px;
+  height: 50px;
+}
+.icon-awesome-github-square1 {
+  left: 855px;
+}
+.icon-awesome-hackerrank1 {
+  position: absolute;
+  bottom: 79px;
+  left: 1029px;
+  width: 51px;
+  height: 51px;
+}
+.icon-awesome-twitter {
+  position: absolute;
+  bottom: 85px;
+  left: 1204px;
+  width: 40px;
+  height: 40px;
+}
+.icon-awesome-copyright {
+  position: absolute;
+  bottom: 23px;
+  left: 755.5px;
+  width: 23px;
+  height: 23px;
+}
+.icon-awesome-twitter1,
+.icon-awesome-twitter2 {
+  position: absolute;
+  top: 1990px;
+  left: 210px;
+  width: 36px;
+  height: 29.24px;
+}
+.icon-awesome-twitter2 {
+  top: 990px;
+  left: 96px;
+}
+.web-1920-2 {
+  position: relative;
+  background-color: #000;
+  width: 100%;
+  height: 7831px;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-segoe-ui);
+}
